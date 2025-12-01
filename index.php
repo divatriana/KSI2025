@@ -37,6 +37,7 @@
         ["nim" => "2312345679", "nama" => "Rani Putri", "jurusan" => "Manajemen Informatika"],
         ["nim" => "2312345680", "nama" => "Andi Saputra", "jurusan" => "Teknologi Informasi"],
         ["nim" => "2312345681", "nama" => "Budi Santoso", "jurusan" => "Rekayasa Perangkat Lunak"],
+        ["nim" => "2312345682", "nama" => "Nadhea Ameylia", "jurusan" => "Manajemen Informatika"],
       ];
     ?>
 
